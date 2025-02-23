@@ -1,1 +1,1 @@
-# azure.grc-scm.comcast.net
+# azure.grc-scm
